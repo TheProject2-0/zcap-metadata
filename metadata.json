@@ -4,10 +4,10 @@
   "description": "ZCAP is the official treasury-backed membership token of Zion Capital. Holders receive exposure to a growing on-chain treasury, governance rights via Realms DAO on Solana, premium membership privileges, and long-term value creation. 50% Treasury Reserve • 30% Founder/Team • 3% Operations • 7% Community Reward • 10% Community + Initial LP. Transparent, sustainable, and disciplined capital management.",
   "image": "https://raw.githubusercontent.com/TheProject2-0/zcap-metadata/main/zion-logo.png",
   "external_url": "https://zionassets.com",
+
   "website": "https://zionassets.com",
   "twitter": "https://x.com/ZionAssetsHQ",
-  "telegram": "",
-  "discord": "",
+
   "attributes": [
     {
       "trait_type": "Token Type",
@@ -49,5 +49,11 @@
       "trait_type": "Treasury Policy",
       "value": "https://raw.githubusercontent.com/TheProject2-0/zcap-metadata/main/Zcap%20Treasury%20Policy%20Master%20Document%20April%202026.pdf"
     }
-  ]
+  ],
+
+  "extensions": {
+    "website": "https://zionassets.com",
+    "twitter": "https://x.com/ZionAssetsHQ",
+    "explorer": "https://explorer.solana.com/address/7mi62VCjcUMgUHJUKjeaL2WmGNniMgiXSVzbTU1FYpww"
+  }
 }
