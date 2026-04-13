@@ -1,0 +1,23 @@
+{
+  "name": "Zion Capital - Index",
+  "symbol": "ZINDEX",
+  "description": "Zion Capital - Index an ETF like exposure to a diversified basket of crypto assets",
+  "image": "https://raw.githubusercontent.com/TheProject2-0/zcap-metadata/refs/heads/main/zion-index-logo.png",
+  "external_url": "https://zionasssets.com",
+
+  "website": "https://zionasssets.com",
+  "twitter": "https://x.com/ZionAssetsHQ",
+
+  "attributes": [
+    { "trait_type": "Category", "value": "DEX Asset" },
+    { "trait_type": "Chain", "value": "Solana" }
+  ],
+
+  "extensions": {
+    "website": "https://zionasssets.com",
+    "twitter": "https://x.com/ZionAssetsHQ",
+    "explorer": "https://explorer.solana.com/address/7HYyijyrMd3wVoQvmNQAXW6HMsjrbZ173GdVVpRVVweZ"
+    
+  }
+}
+
