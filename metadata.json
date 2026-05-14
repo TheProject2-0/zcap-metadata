@@ -1,59 +1,34 @@
 {
-  "name": "Zion Capital Treasury-Backed Membership Token",
+  "name": "Zion Capital - ZCAP",
   "symbol": "ZCAP",
-  "description": "ZCAP is the official treasury-backed membership token of Zion Capital. Holders receive exposure to a growing on-chain treasury, governance rights via Realms DAO on Solana, premium membership privileges, and long-term value creation. 50% Treasury Reserve • 30% Founder/Team • 3% Operations • 7% Community Reward • 10% Community + Initial LP. Transparent, sustainable, and disciplined capital management.",
+  "description": "ZCAP is the official treasury-backed membership token of Zion Capital. Holders receive exposure to a growing on-chain treasury, governance rights via Realms DAO on Solana, and premium membership privileges including Capitol Signal intelligence, ZCAP Yield Vault access, and long-term value creation.",
   "image": "https://raw.githubusercontent.com/TheProject2-0/zcap-metadata/main/zion-logo.png",
   "external_url": "https://zionassets.com",
-
   "website": "https://zionassets.com",
   "twitter": "https://x.com/ZionAssetsHQ",
-
   "attributes": [
-    {
-      "trait_type": "Token Type",
-      "value": "Treasury-Backed Membership"
-    },
-    {
-      "trait_type": "Total Supply",
-      "value": "1,000,000"
-    },
-    {
-      "trait_type": "Blockchain",
-      "value": "Solana"
-    },
-    {
-      "trait_type": "Standard",
-      "value": "SPL Token-2022"
-    },
-    {
-      "trait_type": "Treasury Reserve",
-      "value": "500,000 ZCAP"
-    },
-    {
-      "trait_type": "Founder / Team Reserve",
-      "value": "300,000 ZCAP"
-    },
-    {
-      "trait_type": "Operations",
-      "value": "30,000 ZCAP"
-    },
-    {
-      "trait_type": "Community Reward",
-      "value": "70,000 ZCAP"
-    },
-    {
-      "trait_type": "Community + Initial LP",
-      "value": "100,000 ZCAP"
-    },
-    {
-      "trait_type": "Treasury Policy",
-      "value": "https://raw.githubusercontent.com/TheProject2-0/zcap-metadata/main/Zcap%20Treasury%20Policy%20Master%20Document%20April%202026.pdf"
-    }
+    { "trait_type": "Token Type",        "value": "Treasury-Backed Membership" },
+    { "trait_type": "Total Supply",      "value": "5,450,000" },
+    { "trait_type": "Blockchain",        "value": "Solana" },
+    { "trait_type": "Standard",          "value": "SPL Token-2022" },
+    { "trait_type": "Transfer Fee",      "value": "1.5%" },
+    { "trait_type": "Presale Stage 1",   "value": "$0.18" },
+    { "trait_type": "Presale Stage 2",   "value": "$0.28" },
+    { "trait_type": "Presale Stage 3",   "value": "$0.38" },
+    { "trait_type": "Launch Price",      "value": "$0.56" },
+    { "trait_type": "Presale",           "value": "3,250,000 ZCAP" },
+    { "trait_type": "LP Pool",           "value": "1,300,000 ZCAP" },
+    { "trait_type": "Treasury Reserve",  "value": "495,000 ZCAP" },
+    { "trait_type": "Founder Reserve",   "value": "300,000 ZCAP" },
+    { "trait_type": "Operations",        "value": "30,000 ZCAP" },
+    { "trait_type": "Community Reward",  "value": "70,000 ZCAP" },
+    { "trait_type": "Treasury Policy",   "value": "https://raw.githubusercontent.com/TheProject2-0/zcap-metadata/main/Zcap%20Treasury%20Policy%20Master%20Document%20April%202026.pdf" }
   ],
-
   "extensions": {
-    "website": "https://zionassets.com",
-    "twitter": "https://x.com/ZionAssetsHQ",
-    "explorer": "https://explorer.solana.com/address/7mi62VCjcUMgUHJUKjeaL2WmGNniMgiXSVzbTU1FYpww"
+    "website":   "https://zionassets.com",
+    "twitter":   "https://x.com/ZionAssetsHQ",
+    "telegram":  "https://t.me/ZCAP_DAO",
+    "explorer":  "https://explorer.solana.com/address/7mi62VCjcUMgUHJUKjeaL2WmGNniMgiXSVzbTU1FYpww",
+    "dashboard": "https://zcap.zionassets.com"
   }
 }
